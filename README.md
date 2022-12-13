@@ -1,7 +1,9 @@
 # dev-setup-mac
-My setup for MacOs:
+
+My setup for MacOs 2022
 
 ## Setup:
+- still choosing on file manager and terminal emulator
 - ZSH, [oh-my-zsh](https://ohmyz.sh/) (see .zshrc file) + plugins
 - [Rectangle](https://rectangleapp.com/) for window management
 - Use mac key to move windows Linux style, with [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize)

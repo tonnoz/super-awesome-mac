@@ -13,6 +13,7 @@ My setup for MacOs 2022
 - [BlackHole](https://existential.audio/blackhole/) to record audio coming from the mac, see [tutorial](https://www.youtube.com/watch?v=n-ECXna1hiY)
 - [VSCODE](https://code.visualstudio.com/download) with [Universum theme](https://vscodethemes.com/e/dbeff.universum/universum?language=javascript) (see conf)
 - [DockerDesktop](https://www.docker.com/products/docker-desktop/)
+- [EqMac](https://eqmac.app/) for audio equalizing
 - [OBS](https://obsproject.com/download) for screen recording
 - CLI Tools: [nvm](https://github.com/nvm-sh/nvm#install--update-script), npm-check, [firebasetools](https://firebase.google.com/docs/cli#install-cli-mac-linux), ack, tldr, jq, maven, jdk19
 - 

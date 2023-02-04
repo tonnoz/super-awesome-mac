@@ -1,6 +1,6 @@
-# dev-setup-mac
+# Super Awesome Mac
 
-My setup for MacOs 2022
+A curated collection of tools to get the most of you Mac
 
 ## Setup:
 - File manager: [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12)
@@ -19,3 +19,4 @@ My setup for MacOs 2022
 - CLI Tools: [nvm](https://github.com/nvm-sh/nvm#install--update-script), npm-check, [firebasetools](https://firebase.google.com/docs/cli#install-cli-mac-linux), ack, tldr, jq, maven, jdk19
 - Quick GIF screen record: [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
 - [Shottr](https://shottr.cc/) for screenshots (amazing and free)
+- Hide less used apps on the menu bar: [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)

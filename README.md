@@ -17,3 +17,4 @@ My setup for MacOs 2022
 - [OBS](https://obsproject.com/download) for screen recording
 - CLI Tools: [nvm](https://github.com/nvm-sh/nvm#install--update-script), npm-check, [firebasetools](https://firebase.google.com/docs/cli#install-cli-mac-linux), ack, tldr, jq, maven, jdk19
 - Quick GIF screen record: [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
+- [Shottr](https://shottr.cc/) for screenshots (amazing and free)

@@ -13,6 +13,9 @@ A curated collection of tools to get the most of you Mac
 - [Powerline Fonts](https://fmacedoo.medium.com/oh-my-zsh-with-powerline-fonts-pretty-simple-as-you-deserve-fbe7f6d23723):  I like Roboto Powerline
 - New alternatives for terminal: [Fig.io](https://fig.io/) and [Warp](https://warp.dev/)
 
+### Monitoring
+[Sensei](https://cindori.com/sensei)
+
 ### Spotlight/Windows/Clipboard/Toolbar Management
 - [Alfred](https://www.alfredapp.com/) Spotlight on steroids
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features toggle

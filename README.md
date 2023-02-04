@@ -14,6 +14,7 @@ A curated collection of tools to get the most of you Mac
 - New alternatives for terminal: [Fig.io](https://fig.io/) and [Warp](https://warp.dev/)
 
 ### Windows/Clipboard/Toolbar Management
+- [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features toggle
 - [Rectangle](https://rectangleapp.com/) for window management
 - Use mac key to move windows Linux style, with [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize)
 - Hide less used apps on the menu bar: [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12)

@@ -13,7 +13,8 @@ A curated collection of tools to get the most of you Mac
 - [Powerline Fonts](https://fmacedoo.medium.com/oh-my-zsh-with-powerline-fonts-pretty-simple-as-you-deserve-fbe7f6d23723):  I like Roboto Powerline
 - New alternatives for terminal: [Fig.io](https://fig.io/) and [Warp](https://warp.dev/)
 
-### Windows/Clipboard/Toolbar Management
+### Spotlight/Windows/Clipboard/Toolbar Management
+- [Alfred](https://www.alfredapp.com/) Spotlight on steroids
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features toggle
 - [Rectangle](https://rectangleapp.com/) for window management
 - Use mac key to move windows Linux style, with [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize)

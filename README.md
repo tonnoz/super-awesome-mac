@@ -7,6 +7,7 @@ My setup for MacOs 2022
 - Terminal Emulator: [Iterm2](https://iterm2.com/), color scheme: [Brogrammer](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Brogrammer.itermcolors)
 - ZSH, [oh-my-zsh](https://ohmyz.sh/) (see .zshrc file) + plugins
 - [Powerline Fonts](https://fmacedoo.medium.com/oh-my-zsh-with-powerline-fonts-pretty-simple-as-you-deserve-fbe7f6d23723):  I like Roboto Powerline
+- New alternatives for terminal: [Fig.io](https://fig.io/) and [Warp](https://warp.dev/)
 - [Rectangle](https://rectangleapp.com/) for window management
 - Use mac key to move windows Linux style, with [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize)
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management

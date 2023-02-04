@@ -14,7 +14,7 @@ A curated collection of tools to get the most of you Mac
 - New alternatives for terminal: [Fig.io](https://fig.io/) and [Warp](https://warp.dev/)
 
 ### Monitoring
-[Sensei](https://cindori.com/sensei)
+[Stats](https://github.com/exelban/stats)
 
 ### Spotlight/Windows/Clipboard/Toolbar Management
 - [Alfred](https://www.alfredapp.com/) Spotlight on steroids

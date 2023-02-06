@@ -34,5 +34,6 @@ A curated collection of tools to get the most out of you Mac
 - [nvm](https://github.com/nvm-sh/nvm#install--update-script)
 - [npm-check](https://www.npmjs.com/package/npm-check)
 - [firebasetools](https://firebase.google.com/docs/cli#install-cli-mac-linux)
+- [Node Desktop Manager](https://720kb.github.io/ndm/) Window based NPM
 
 

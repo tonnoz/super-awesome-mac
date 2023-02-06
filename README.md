@@ -11,6 +11,9 @@ A curated collection of tools to get the most out of you Mac
 - [Ack](https://beyondgrep.com/) `brew install ack`
 - [TLDR](https://tldr.sh/) `brew install tldr`
 
+### Utils
+[Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
+
 ### Monitoring
 - [Stats](https://github.com/exelban/stats)
 

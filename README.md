@@ -55,7 +55,7 @@ A curated collection of tools to get the most out of you Mac
 - Prettier
 - Tailwind CSS IntelliSense
 - TODO Highlight
-- Turbo COnsole Log
+- Turbo Console Log
 - Universum Theme
-- VS COde Counter
+- VS Code Counter
 - vscode-icons

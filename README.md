@@ -14,8 +14,8 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
-- [Ack](https://beyondgrep.com/) `brew install ack`
-- [TLDR](https://tldr.sh/) `brew install tldr`
+- [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install ack`
+- [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app

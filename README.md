@@ -13,6 +13,8 @@ A curated collection of tools to get the most out of you Mac
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
+- [Rocket](https://matthewpalmer.net/rocket/) Emoji quickly everywhere!
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats)
@@ -25,7 +27,7 @@ A curated collection of tools to get the most out of you Mac
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
 ### Spotlight/Windows/Clipboard/Toolbar Management
-- [Alfred](https://www.alfredapp.com/) Spotlight on steroids
+- [Raycast](https://raycast.com) Spotlight on steroids
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
 - [Rectangle](https://rectangleapp.com/) for window management
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style

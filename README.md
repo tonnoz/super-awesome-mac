@@ -13,7 +13,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac
-- [Fig.io](https://fig.io/) or [Warp](https://warp.dev/) (new)
+- [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
 - [Ack](https://beyondgrep.com/) `brew install ack`
 - [TLDR](https://tldr.sh/) `brew install tldr`
 

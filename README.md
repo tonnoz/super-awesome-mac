@@ -33,7 +33,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
 ### Spotlight/Windows/Clipboard/Toolbar Management
-- [AltTab](https://alt-tab-macos.netlify.app/) Alt+Tab, supercharged `brew install --cask alt-tab`
+- [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 - [Raycast](https://raycast.com) Spotlight on steroids
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
 - [Rectangle](https://rectangleapp.com/) for window management

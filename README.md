@@ -15,7 +15,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
 - [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install rg`
-- [jq](https://stedolan.github.io/jq/) pretty print json for terminal `brew install jq`
+- [jq](https://stedolan.github.io/jq/) pretty print json for the terminal `brew install jq`
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 
 ### Utils
@@ -40,6 +40,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Rectangle](https://rectangleapp.com/) for window management
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar
+- [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (bit better)
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management
 
 ### Developer tools

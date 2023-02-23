@@ -17,6 +17,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install rg`
 - [jq](https://stedolan.github.io/jq/) pretty print json for the terminal `brew install jq`
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
+- [mac-cli](https://github.com/guarinogabriel/Mac-CLI) Control your mac from the terminal
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app

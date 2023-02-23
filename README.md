@@ -15,6 +15,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
 - [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install rg`
+- [jq] pretty print json for terminal `brew install jq
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 
 ### Utils

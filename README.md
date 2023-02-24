@@ -36,10 +36,13 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
-### Spotlight/Windows/Clipboard/Toolbar Management
+### Unlock hidden configuration
+- [Onyx](https://www.titanium-software.fr/en/onyx.html)
+- [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
+
+### Desktop management apps
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 - [Raycast](https://raycast.com) Spotlight on steroids
-- [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
 - [Rectangle](https://rectangleapp.com/) for window management
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar

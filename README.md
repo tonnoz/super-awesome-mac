@@ -32,6 +32,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Audio/Video tools
 - [Shottr](https://shottr.cc/) for screenshots (amazing and free)
 - [OBS](https://obsproject.com/download) for screen recording / streaming
+- [Screen Studio](https://www.screen.studio/) Paid alternative to OBS for fancy looking screen recordings
 - [BlackHole](https://existential.audio/blackhole/) to record audio coming from the mac, see [tutorial](https://www.youtube.com/watch?v=n-ECXna1hiY)
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record

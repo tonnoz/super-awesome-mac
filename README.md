@@ -28,7 +28,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 
 ### Monitoring
-- [Stats](https://github.com/exelban/stats)
+- [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar
 
 ### Audio/Video tools
 - [Shottr](https://shottr.cc/) for screenshots (amazing and free)

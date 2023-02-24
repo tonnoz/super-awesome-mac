@@ -24,7 +24,6 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
-- [Rocket](https://matthewpalmer.net/rocket/) Emoji quickly everywhere!
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 
 ### Monitoring

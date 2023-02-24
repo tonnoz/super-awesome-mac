@@ -11,6 +11,9 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### File Management
 - [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager
 
+### Email
+- [Mimestream](https://mimestream.com/) Native Gmail client for MacOS
+
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)

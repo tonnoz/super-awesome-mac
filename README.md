@@ -14,6 +14,9 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Email
 - [Mimestream](https://mimestream.com/) Native Gmail client for MacOS
 
+### Monitor
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) Easily control the brightness of external monitors 
+
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)

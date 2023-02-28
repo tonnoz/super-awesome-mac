@@ -44,7 +44,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
 ### Unlock hidden configuration
-- [Onyx](https://www.titanium-software.fr/en/onyx.html)
+- [Onyx](https://www.titanium-software.fr/en/onyx.html) hidden features/configuration toggle
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
 
 ### Desktop management apps

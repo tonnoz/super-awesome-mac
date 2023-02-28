@@ -9,7 +9,7 @@ A curated collection of tools to get the most out of you Mac
 For a non-curated list please refer to the more general : [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 
 ### Browser
-- [Orion](https://browser.kagi.com/#download_sec) Privacy first browser, blazing fast and non-battery hungry
+- [Orion](https://browser.kagi.com/) Privacy first WebKit based browser, blazing fast and non-battery hungry
 
 ### File Management
 - [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager

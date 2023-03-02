@@ -74,7 +74,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - DotENV
 - env-cmd-file-syntax
 - ES7+React/Redux/React-Native snippets
-- ESLink
+- ESLint
 - Git HIstory Diff
 - Import Cost
 - Local History

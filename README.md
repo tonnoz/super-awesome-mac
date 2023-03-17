@@ -57,6 +57,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management
 
 ### Developer tools
+- [devutils](https://devutils.com/) by Tony Dinh. A must have.
 - [VSCODE](https://code.visualstudio.com/download) with [CodeSandbox Theme (dark)](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
 - [DockerDesktop](https://www.docker.com/products/docker-desktop/)
 - [nvm](https://github.com/nvm-sh/nvm#install--update-script)

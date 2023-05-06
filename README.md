@@ -43,6 +43,9 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
+### Sharing
+- [Transmission](https://transmissionbt.com/) BT client
+
 ### Unlock hidden configuration
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) hidden features/configuration toggle
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle

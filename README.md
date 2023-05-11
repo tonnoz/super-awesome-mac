@@ -46,6 +46,9 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Sharing
 - [Transmission](https://transmissionbt.com/) BT client
 
+### Burn ISO images
+- [Etcher](https://www.balena.io/etcher#download-etcher)
+
 ### Unlock hidden configuration
 - [Onyx](https://www.titanium-software.fr/en/onyx.html) hidden features/configuration toggle
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle

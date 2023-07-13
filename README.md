@@ -27,6 +27,8 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [jq](https://stedolan.github.io/jq/) pretty print json for the terminal `brew install jq`
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 - [mac-cli](https://github.com/guarinogabriel/Mac-CLI) Control your mac from the terminal
+- [fzf](https://github.com/junegunn/fzf) fuzzy finder for the terminal
+- [exa](https://github.com/ogham/exa) color replacement for ls 
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app

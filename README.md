@@ -28,7 +28,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 - [mac-cli](https://github.com/guarinogabriel/Mac-CLI) Control your mac from the terminal
 - [fzf](https://github.com/junegunn/fzf) fuzzy finder for the terminal
-- [exa](https://github.com/ogham/exa) color replacement for ls
+- [exa](https://github.com/ogham/exa) ls but better, with colors
 - [bat](https://github.com/sharkdp/bat) better than cat
 
 ### Utils

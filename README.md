@@ -46,6 +46,11 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 
+### Note taking
+- [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown
+- [Evernote](https://evernote.com/download) The most complete but a bit overloaded
+- [Simple Mind](https://simplemind.eu/download/) Mind maps
+
 ### Sharing
 - [Transmission](https://transmissionbt.com/) BT client
 

@@ -50,6 +50,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown
 - [Evernote](https://evernote.com/download) The most complete but a bit overloaded
 - [Simple Mind](https://simplemind.eu/download/) Mind maps
+- [Nebo](https://www.nebo.app/) Notes taking app, great with Apple Pen (one time payment)
 
 ### Sharing
 - [Transmission](https://transmissionbt.com/) BT client
@@ -71,7 +72,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management
 
 ### Developer tools
-- [devutils](https://devutils.com/) by Tony Dinh. A must have.
+- [devutils](https://devutils.com/) A must have for developers.
 - [VSCODE](https://code.visualstudio.com/download) with [CodeSandbox Theme (dark)](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
 - [DockerDesktop](https://www.docker.com/products/docker-desktop/)
 - [nvm](https://github.com/nvm-sh/nvm#install--update-script)

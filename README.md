@@ -31,6 +31,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [exa](https://github.com/ogham/exa) ls but better, with colors
 - [bat](https://github.com/sharkdp/bat) better than cat
 - [fd](https://github.com/sharkdp/fd) a better alternative to find
+- [z](https://github.com/rupa/z) jump around most used folders! `brew install z`
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app

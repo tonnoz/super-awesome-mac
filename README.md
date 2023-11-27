@@ -30,6 +30,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [fzf](https://github.com/junegunn/fzf) fuzzy finder for the terminal
 - [exa](https://github.com/ogham/exa) ls but better, with colors
 - [bat](https://github.com/sharkdp/bat) better than cat
+- [fd](https://github.com/sharkdp/fd) a better alternative to find
 
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app

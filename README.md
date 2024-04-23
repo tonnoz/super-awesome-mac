@@ -11,6 +11,9 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Browser
 - [Orion](https://browser.kagi.com/) Privacy first WebKit based browser, blazing fast and non-battery hungry
 
+### Battery
+- [Aldente](https://apphousekitchen.com/) Help prolong the battery life of your Mac by limiting charge to 70% and alarming about when too hot
+
 ### File Management
 - [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager
 

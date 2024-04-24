@@ -73,8 +73,8 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Rectangle](https://rectangleapp.com/) for window management
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar
-- [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (bit better)
-- [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management
+- [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (more features compared to Hidden Bar)
+- [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but also the integrated one in Raycast is great)
 
 ### Developer tools
 - [devutils](https://devutils.com/) A must have for developers.

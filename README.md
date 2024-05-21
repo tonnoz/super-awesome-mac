@@ -39,6 +39,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Utils
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
+- [Notunes](https://github.com/tombonez/noTunes) Avoid auto-launching Itunes
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar

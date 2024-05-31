@@ -55,9 +55,8 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 
 ### Note taking
 - [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown
-- [Evernote](https://evernote.com/download) The most complete but a bit overloaded
 - [Simple Mind](https://simplemind.eu/download/) Mind maps
-- [Nebo](https://www.nebo.app/) Notes taking app, great with Apple Pen (one time payment)
+- [Nebo](https://www.nebo.app/) Favorite Ipad note taking app, great with stylus pencil (one time payment of 10 euros)
 
 ### Sharing
 - [Transmission](https://transmissionbt.com/) BT client

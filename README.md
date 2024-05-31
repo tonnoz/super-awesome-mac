@@ -10,6 +10,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 
 ### Browser
 - [Orion](https://browser.kagi.com/) Privacy first WebKit based browser, blazing fast and non-battery hungry
+- [Arc](https://arc.net/) "the Chrome replacement I’ve been waiting for"
 
 ### Battery
 - [Aldente](https://apphousekitchen.com/) Help prolong the battery life of your Mac by limiting charge to 70% and alarming about when too hot

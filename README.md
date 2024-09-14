@@ -22,7 +22,10 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Mimestream](https://mimestream.com/) Native Gmail client for MacOS
 
 ### Display
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) Easily control the brightness of external Displays 
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) Easily control the brightness of external Displays
+
+### Memory & Files cleanup
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner) free mac app cleaner inspired by Freemacsoft's AppCleaner
 
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac

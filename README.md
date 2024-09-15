@@ -44,6 +44,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 - [Notunes](https://github.com/tombonez/noTunes) Avoid auto-launching Itunes
+- [Rocket](https://matthewpalmer.net/rocket/) Slack shortcuts for emojis everywhere
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar
@@ -61,7 +62,7 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 - [Simple Mind](https://simplemind.eu/download/) Mind maps
 - [Nebo](https://www.nebo.app/) Favorite Ipad note taking app, great with stylus pencil (one time payment of 10 euros)
 
-### Sharing
+### P2P
 - [Transmission](https://transmissionbt.com/) BT client
 
 ### Burn ISO images

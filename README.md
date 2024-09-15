@@ -8,6 +8,8 @@ A curated collection of tools to get the most out of you Mac
 
 For a non-curated list please refer to the more general : [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 
+Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ### Browser
 - [Orion](https://browser.kagi.com/) Privacy first WebKit based browser, blazing fast and non-battery hungry
 - [Arc](https://arc.net/) "the Chrome replacement I’ve been waiting for"
@@ -75,11 +77,11 @@ For a non-curated list please refer to the more general : [Awesome Mac](https://
 ### Desktop management apps
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 - [Raycast](https://raycast.com) Spotlight on steroids
-- [Rectangle](https://rectangleapp.com/) for window management
+- [Rectangle](https://rectangleapp.com/) Window management done properly
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar
 - [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (more features compared to Hidden Bar)
-- [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but also the integrated one in Raycast is great)
+- [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but currently I prefer to use the embedded clipboard manager in Raycast)
 
 ### Developer tools
 - [devutils](https://devutils.com/) A must have for developers.

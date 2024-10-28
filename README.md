@@ -47,6 +47,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 - [Notunes](https://github.com/tombonez/noTunes) Avoid auto-launching Itunes
 - [Rocket](https://matthewpalmer.net/rocket/) Slack shortcuts for emojis everywhere
+- [Lulu](https://github.com/objective-see/LuLu) Firewall for Mac Os
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar

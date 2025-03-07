@@ -85,7 +85,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but currently I prefer to use the embedded clipboard manager in Raycast)
 
 ### Developer tools
-- [Cursor (paid)](https://www.cursor.com/) Fork of VSCODE with great AI assited coding capabilities.
+- [Cursor (paid)](https://www.cursor.com/) Fork of VS Code enhanced with AI-assisted capabilities.
 - [devutils](https://devutils.com/) A must have for developers.
 - [VSCODE](https://code.visualstudio.com/download) with [CodeSandbox Theme (dark)](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)
 - [DockerDesktop](https://www.docker.com/products/docker-desktop/)

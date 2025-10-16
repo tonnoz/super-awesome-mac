@@ -12,13 +12,14 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Browser
 - [Orion](https://browser.kagi.com/) Privacy first WebKit based browser, blazing fast and non-battery hungry
-- [Arc](https://arc.net/) "the Chrome replacement I’ve been waiting for"
+- [Zen](https://zen-browser.app/) "Beautifully designed, privacy-focused, and packed with features"
 
 ### Battery
-- [Aldente](https://apphousekitchen.com/) Help prolong the battery life of your Mac by limiting charge to 70% and alarming about when too hot
+- [Aldente](https://apphousekitchen.com/) Help prolong the battery life of your Mac by limiting charge and alarming about when too hot
 
 ### File Management
 - [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager
+- [Yazi](https://github.com/sxyazi/yazi) Blazing Fast Terminal File Manager
 
 ### Email
 - [Mimestream](https://mimestream.com/) Native Gmail client for MacOS
@@ -60,6 +61,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [BlackHole](https://existential.audio/blackhole/) to record audio coming from the mac, see [tutorial](https://www.youtube.com/watch?v=n-ECXna1hiY)
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
+- [NoTunes](https://github.com/tombonez/noTunes) Block Itunes / Apple Music once and for all
 
 ### Note taking
 - [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown

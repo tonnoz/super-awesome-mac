@@ -50,6 +50,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Rocket](https://matthewpalmer.net/rocket/) Slack shortcuts for emojis everywhere
 - [Lulu](https://github.com/objective-see/LuLu) Firewall for Mac Os
 - [NeoHtop](https://github.com/Abdenasser/neohtop) Task manager
+- [Mounty app + 3G NTFS Driver](https://mounty.app/) Enable write mode on NTFS external SSD/HDD
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar

@@ -88,7 +88,12 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (more features compared to Hidden Bar)
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but currently I prefer to use the embedded clipboard manager in Raycast)
 
+### Cloud storage services
+- [Dropbox](http://dropbox.com/) Dropbox is the best Cloud storage solution UI/UX wise
+- [Shadow Drive](https://shadow.tech/drive/) Not as good as dropbox but generous free tier
+
 ### Developer tools
+- [GIT](https://git-scm.com/) Global information tracker  `brew install git`
 - [Cursor (paid)](https://www.cursor.com/) Fork of VS Code enhanced with AI-assisted capabilities.
 - [devutils](https://devutils.com/) A must have for developers.
 - [VSCODE](https://code.visualstudio.com/download) with [CodeSandbox Theme (dark)](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)

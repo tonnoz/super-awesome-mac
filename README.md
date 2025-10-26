@@ -38,7 +38,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`
 - [mac-cli](https://github.com/guarinogabriel/Mac-CLI) Control your mac from the terminal
 - [fzf](https://github.com/junegunn/fzf) fuzzy finder for the terminal
-- [exa](https://github.com/ogham/exa) ls but better, with colors
+- [eza](https://github.com/eza-community/eza) ls but better, with colors
 - [bat](https://github.com/sharkdp/bat) better than cat
 - [fd](https://github.com/sharkdp/fd) a better alternative to find
 - [z](https://github.com/rupa/z) jump around most used folders! `brew install z`

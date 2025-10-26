@@ -95,6 +95,8 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 ### Developer tools
 - [GIT](https://git-scm.com/) Global information tracker  `brew install git`
 - [LazyGit](https://github.com/jesseduffield/lazygit) Git UI in terminal
+- [NodeJS](https://nodejs.org/en/download)
+- [nvm](https://github.com/nvm-sh/nvm)
 - [Cursor (paid)](https://www.cursor.com/) Fork of VS Code enhanced with AI-assisted capabilities.
 - [devutils](https://devutils.com/) A must have for developers.
 - [VSCODE](https://code.visualstudio.com/download) with [CodeSandbox Theme (dark)](https://marketplace.visualstudio.com/items?itemName=ngryman.codesandbox-theme)

@@ -56,6 +56,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar
 
 ### Audio/Video tools
+- [Kap](https://github.com/wulkano/Kap) Screen recording tool (use it for quick gif making usually)
 - [Shottr](https://shottr.cc/) for screenshots (amazing and free)
 - [OBS](https://obsproject.com/download) for screen recording / streaming
 - [Screen Studio](https://www.screen.studio/) Paid alternative to OBS for fancy looking screen recordings

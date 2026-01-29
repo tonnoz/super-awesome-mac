@@ -96,6 +96,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Developer tools
 - [GIT](https://git-scm.com/) Global information tracker  `brew install git`
+- [jj](https://github.com/jj-vcs/jj) git on steroids `brew install jj`
 - [LazyGit](https://github.com/jesseduffield/lazygit) Git UI in terminal
 - [NodeJS](https://nodejs.org/en/download)
 - [nvm](https://github.com/nvm-sh/nvm)

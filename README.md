@@ -71,6 +71,10 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Simple Mind](https://simplemind.eu/download/) Mind maps
 - [Nebo](https://www.nebo.app/) Favorite Ipad note taking app, great with stylus pencil (one time payment of 10 euros)
 
+
+### Prompting
+- [Handy](https://github.com/cjpais/Handy) Enanched Speech-to-text for the prompting hera
+
 ### P2P
 - [Transmission](https://transmissionbt.com/) BT client
 

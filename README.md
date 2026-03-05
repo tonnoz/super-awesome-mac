@@ -28,6 +28,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) Easily control the brightness of external Displays
 
 ### Memory/Files/App cleanup
+- [ClearDisk](https://github.com/bysiber/cleardisk) macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) free mac app cleaner inspired by Freemacsoft's AppCleaner
 - [Mole](https://github.com/tw93/Mole) Best terminal Free tool to reclaim space from your mac
 

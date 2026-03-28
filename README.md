@@ -52,6 +52,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Lulu](https://github.com/objective-see/LuLu) Firewall for Mac Os
 - [NeoHtop](https://github.com/Abdenasser/neohtop) Task manager
 - [Mounty app + 3G NTFS Driver](https://mounty.app/) Enable write mode on NTFS external SSD/HDD
+- [RightLayout](https://github.com/chernistry/RightLayout) Auto-corrects wrong keyboard layout (EN/RU/HE) as you type.
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar

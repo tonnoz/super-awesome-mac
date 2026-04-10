@@ -89,6 +89,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 - [Raycast](https://raycast.com) Spotlight on steroids
 - [Rectangle](https://rectangleapp.com/) Window management done properly
+- [SnapHotkey](https://snaphotkey.com) Hotkey to launch app, no friction
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar
 - [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (more features compared to Hidden Bar)

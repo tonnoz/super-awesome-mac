@@ -73,6 +73,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 
 ### Prompting
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) macOS menu bar AI agent. Shake cursor to summon, it sees screen and clicks/types/drags for you. Open source.
 - [Handy](https://github.com/cjpais/Handy) Enanched Speech-to-text for the prompting hera
 
 ### P2P

@@ -57,6 +57,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar
 
 ### Audio/Video tools
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots, local Parakeet transcription.
 - [Kap](https://github.com/wulkano/Kap) Screen recording tool (use it for quick gif making usually)
 - [Shottr](https://shottr.cc/) for screenshots (amazing and free)
 - [OBS](https://obsproject.com/download) for screen recording / streaming

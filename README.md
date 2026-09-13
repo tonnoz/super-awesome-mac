@@ -65,6 +65,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 - [NoTunes](https://github.com/tombonez/noTunes) Block Itunes / Apple Music once and for all
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first CLI and MCP toolkit for coding agents to compose, edit, and generate videos from editable plan.json timelines.
 
 ### Note taking
 - [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown

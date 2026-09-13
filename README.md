@@ -74,6 +74,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Prompting
 - [Handy](https://github.com/cjpais/Handy) Enanched Speech-to-text for the prompting hera
+- [Orkas](https://orkas.ai/?source=gh_tonnoz) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ### P2P
 - [Transmission](https://transmissionbt.com/) BT client

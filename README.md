@@ -93,6 +93,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12) Hide less used apps on the menu bar
 - [Bartender 4](https://www.macbartender.com/) Paid alternative to Hidden Bar (more features compared to Hidden Bar)
 - [CopyClip](https://apps.apple.com/nl/app/copyclip-clipboard-history/id595191960?mt=12) for Clipboard management (but currently I prefer to use the embedded clipboard manager in Raycast)
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) Desktop shell for macOS 26: sidebar with its own dock, launcher, dashboard and control centre `brew tap Silvertree2010/apolloshell && brew install apolloshell`
 
 ### Cloud storage services
 - [Dropbox](http://dropbox.com/) Dropbox is the best Cloud storage solution UI/UX wise

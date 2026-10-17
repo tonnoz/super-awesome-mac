@@ -135,3 +135,6 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - Universum Theme
 - VS Code Counter
 - vscode-icons
+
+- [DisplayPilot](https://huayanming.github.io/displaypilot/?src=superawesomemac) External display brightness, colour and scrolling on macOS. Tries DDC/CI first, and hands the job to the CoreGraphics gamma table when a panel does not answer. Paid, one-time, with a 14-day fully featured trial.
+

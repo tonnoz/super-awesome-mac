@@ -30,6 +30,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 ### Memory/Files/App cleanup
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) free mac app cleaner inspired by Freemacsoft's AppCleaner
 - [Mole](https://github.com/tw93/Mole) Best terminal Free tool to reclaim space from your mac
+- [MacClean](https://thulem.com/) Freemium native Mac cleaner — WeChat/QQ/WeCom, Storage Map, Xcode/AI caches (Lifetime ¥98; not notarized)
 
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac

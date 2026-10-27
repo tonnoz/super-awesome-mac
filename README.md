@@ -87,6 +87,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Desktop management apps
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
+- [Command Reopen](https://commandreopen.com/) Makes Cmd+Tab restore minimized and closed windows with zero permissions (MIT, MAS; 2-day trial then $9.99 lifetime)
 - [Raycast](https://raycast.com) Spotlight on steroids
 - [Rectangle](https://rectangleapp.com/) Window management done properly
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style

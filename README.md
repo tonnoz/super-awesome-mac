@@ -70,6 +70,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Bear](https://apps.apple.com/it/app/bear-markdown-notes/id1091189122?l=en&mt=12) Notes as Markdown
 - [Simple Mind](https://simplemind.eu/download/) Mind maps
 - [Nebo](https://www.nebo.app/) Favorite Ipad note taking app, great with stylus pencil (one time payment of 10 euros)
+- [Linkit](https://github.com/blue-idea/linkit) Local-first bookmark manager with AI summaries, semantic search and optional self-hosted sync
 
 
 ### Prompting

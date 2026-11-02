@@ -86,6 +86,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Tinkertool](https://www.bresink.com/osx/TinkerTool.html) hidden features/configuration toggle
 
 ### Desktop management apps
+- [Cockpit](https://yorben.me/#cockpit) All-in-one daily dashboard & tactile HUD for macOS (Calendar, Mail, Notion) `brew install --cask Yvsleyen00941/tap/cockpit`
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
 - [Raycast](https://raycast.com) Spotlight on steroids
 - [Rectangle](https://rectangleapp.com/) Window management done properly

@@ -87,6 +87,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Desktop management apps
 - [AltTab](https://alt-tab-macos.netlify.app/) Cmd+Tab, supercharged `brew install --cask alt-tab`
+- [Show Bar](https://rept0rix.github.io/show-bar/) Windows-style Command-Tab window switcher, live Dock hover previews, window snapping, clipboard history & screenshot shelf `brew install --cask rept0rix/tap/show-bar`
 - [Raycast](https://raycast.com) Spotlight on steroids
 - [Rectangle](https://rectangleapp.com/) Window management done properly
 - [Easy-Move-Resize](https://github.com/dmarcotte/easy-move-resize) Use hot key to move windows around, Linux style

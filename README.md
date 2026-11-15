@@ -45,6 +45,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [z](https://github.com/rupa/z) jump around most used folders! `brew install z`
 
 ### Utils
+- [Tape](https://yorben.me/tape/) Native macOS stock and cryptocurrency ticker in the menu bar with compact sparklines
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 - [Notunes](https://github.com/tombonez/noTunes) Avoid auto-launching Itunes

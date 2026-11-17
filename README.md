@@ -62,6 +62,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [OBS](https://obsproject.com/download) for screen recording / streaming
 - [Screen Studio](https://www.screen.studio/) Paid alternative to OBS for fancy looking screen recordings
 - [BlackHole](https://existential.audio/blackhole/) to record audio coming from the mac, see [tutorial](https://www.youtube.com/watch?v=n-ECXna1hiY)
+- [LadioCast](https://apps.apple.com/nl/app/ladiocast/id411213048) Free audio mixer/router: send several inputs to several outputs (pairs well with BlackHole)
 - [EqMac](https://eqmac.app/) for audio equalizing
 - [Giphy](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12) Quick GIF screen record
 - [NoTunes](https://github.com/tombonez/noTunes) Block Itunes / Apple Music once and for all

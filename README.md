@@ -55,6 +55,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar
+- [Usage](https://github.com/aqua5230/usage) Monitor Claude Code, Codex and Antigravity quota from the Menu bar (burn-rate predictions, offline HTML reports, no LLM API calls)
 
 ### Audio/Video tools
 - [Kap](https://github.com/wulkano/Kap) Screen recording tool (use it for quick gif making usually)

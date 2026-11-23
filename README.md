@@ -34,6 +34,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
+- [Mel](https://www.openmel.dev) Agentic terminal: a team of AI agents that edit, run commands and review diffs with your approval, free with your own API key
 - [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install rg`
 - [jq](https://stedolan.github.io/jq/) pretty print json for the terminal `brew install jq`
 - [TLDR](https://tldr.sh/) like `man` but with the most commonly used examples `brew install tldr`

@@ -20,6 +20,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 ### File Management
 - [Commander One](https://apps.apple.com/nl/app/commander-one-file-manager/id1035236694?mt=12) commander-like file manager
 - [Yazi](https://github.com/sxyazi/yazi) Blazing Fast Terminal File Manager
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) Adds New File and a set of file actions to the Finder right-click menu
 
 ### Email
 - [Mimestream](https://mimestream.com/) Native Gmail client for MacOS

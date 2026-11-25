@@ -52,6 +52,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Lulu](https://github.com/objective-see/LuLu) Firewall for Mac Os
 - [NeoHtop](https://github.com/Abdenasser/neohtop) Task manager
 - [Mounty app + 3G NTFS Driver](https://mounty.app/) Enable write mode on NTFS external SSD/HDD
+- [Toolbox](https://mactoolbox.app) 96 native tools in one app: compress video, sign PDFs, remove backgrounds, transcribe (paid, offline)
 
 ### Monitoring
 - [Stats](https://github.com/exelban/stats) Monitor all your hardware from the Menu bar

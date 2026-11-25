@@ -45,6 +45,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [z](https://github.com/rupa/z) jump around most used folders! `brew install z`
 
 ### Utils
+- [Rime](https://github.com/Yvsleyen00941/Rime) Distraction-free native macOS PDF reader where everything outside the page freezes into frosted ice
 - [Cheatsheet](https://www.mediaatelier.com/CheatSheet/) Show keyboard shortcuts on every app
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) Prevent Mac from sleeping
 - [Notunes](https://github.com/tombonez/noTunes) Avoid auto-launching Itunes

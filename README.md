@@ -30,6 +30,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 ### Memory/Files/App cleanup
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) free mac app cleaner inspired by Freemacsoft's AppCleaner
 - [Mole](https://github.com/tw93/Mole) Best terminal Free tool to reclaim space from your mac
+- [Dusty](https://github.com/yagcioglutoprak/dusty) Open-source menu bar disk cleaner that shows every path before removing anything
 
 ### Terminal / Terminal tools
 - [Brew](https://brew.sh/) Package manager for Mac

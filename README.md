@@ -32,6 +32,7 @@ Wanna support this curation? Feel free to <a href='https://ko-fi.com/B0B41QQ7L' 
 - [Mole](https://github.com/tw93/Mole) Best terminal Free tool to reclaim space from your mac
 
 ### Terminal / Terminal tools
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only.
 - [Brew](https://brew.sh/) Package manager for Mac
 - [Warp](https://warp.dev/) (new) or [Fig.io](https://fig.io/)
 - [rg](https://github.com/BurntSushi/ripgrep) like ack but faster `brew install rg`
